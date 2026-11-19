@@ -1,3 +1,7 @@
+[![make.fun bounty](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
+[![make.fun rank](https://make.fun/badge/news-image-20261119/zfindc/Zain-news-/rank.svg)](https://make.fun/bounty/news-image-20261119)
+[![make.fun reward](https://make.fun/badge/news-image-20261119/zfindc/Zain-news-/reward.svg)](https://make.fun/bounty/news-image-20261119)
+
 # Sum up 19 November's world news in one image — entry
 
 `main.py` copies the bundled artwork `art (1).jpg` to `/output/entry.png`.
